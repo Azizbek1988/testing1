@@ -38,6 +38,5 @@ public class YouTubeMusic {
         }
         Thread.sleep(6000);
         driver.quit();
-
     }
 }
